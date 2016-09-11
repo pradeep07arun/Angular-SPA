@@ -1,0 +1,29 @@
+  [
+
+  	{
+  		"name": "pradeep",
+  		"belt": "black",
+  		"rate": 50,
+  		"available": true
+        
+  	}, {
+  		"name": "surya",
+  		"belt": "green",
+  		"rate": 75,
+  		"available": true
+         
+  	}, {
+  		"name": "gopi",
+  		"belt": "yellow",
+  		"rate": 55,
+  		"available": true
+         
+  	}, {
+  		"name": "palanipraveen",
+  		"belt": "pink",
+  		"rate": 87,
+  		"available": true
+         
+  	}
+
+  ]
